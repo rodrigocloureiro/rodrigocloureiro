@@ -1,5 +1,7 @@
 ## Olá, sou o Rodrigo Loureiro 👋🏻
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=FFFFFF&random=false&width=600&lines=Bem-vindo+ao+meu+reposit%C3%B3rio;Me+chamo+Rodrigo+Loureiro;Aqui+voc%C3%AA+vai+encontrar+meus+principais+projetos;Espero+que+goste)](https://git.io/typing-svg)
+
 Eu sou um entusiasta de programação apaixonado por criar soluções e resolver problemas por meio de código. Estou sempre buscando aprender e aprimorar minhas habilidades, explorando novas tecnologias e metodologias. Seja bem-vindo ao meu GitHub, e sinta-se à vontade para explorar meus repositórios e me [contatar](mailto:rodrigo.cloureiro@al.infnet.edu.br).
 
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://rodrigocloureiro.github.io/portfolio/)](https://rodrigocloureiro.github.io/portfolio/)
