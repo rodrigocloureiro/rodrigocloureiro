@@ -15,7 +15,7 @@ Eu sou um entusiasta de programação apaixonado por criar soluções e resolver
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ](https://camo.githubusercontent.com/a2fdb686bf3f4bd26f142a4b60bde87647ff18e340d8251e0aea3fa551bb568e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@RodrigoCosta34)
 
 ### Tecnologias
