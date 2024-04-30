@@ -6,7 +6,6 @@ Eu sou um entusiasta de programação apaixonado por criar soluções e resolver
 
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://rodrigocloureiro.github.io/portfolio/)](https://rodrigocloureiro.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocostaloureiro/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rod7.crvg/)
 
 <div>
   <img src='https://github-readme-stats.vercel.app/api?username=rodrigocloureiro&show_icons=true&theme=radical' alt='Rodrigo GitHub stats' style='width: 350px'>
